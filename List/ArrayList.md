@@ -1,6 +1,5 @@
 ArrayList
-===========================
-
+===
 All Implemented Interfaces:
 Serializable, Cloneable, Iterable<E>, Collection<E>, List<E>, RandomAccess
 Direct Known Subclasses:
